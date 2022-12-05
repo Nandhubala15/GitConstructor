@@ -1,13 +1,15 @@
 package org.constr;
 
 public class BranchNandhu {
-	
+
 	public static void main(String[] args) {
-		 System.out.println("Hello Nandhu");
-		 
-		 System.out.println("Hii my second code");
-		 
-		 System.out.println("Without Pulling");
+		System.out.println("Hello Nandhu");
+		System.out.println("Hii Nandhu's second code");
+
+		System.out.println("Bala's second code");
+
+		System.out.println("With Pulling");
+
 	}
 
 }
